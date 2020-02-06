@@ -1,7 +1,7 @@
 ## BST-word-tracker
 
 ### Word tracker program using Binary Search Trees
-For CPRG-311 Advanced Object Oriented Programming
+Part of CPRG-311 Advanced Object Oriented Programming
 
 - Reads text files and collects and stores unique words found in various files
 - Custom Abstract Data Type interface
