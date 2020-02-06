@@ -8,6 +8,7 @@ Part of CPRG-311 Advanced Object Oriented Programming
 - Binary Search tree using a reference based format
 - Report generation based on word occurrence, existence in files, frequency of occurrence
 - JUnit Tested
+- Javadoc
 - Used in a CLI
 
 
