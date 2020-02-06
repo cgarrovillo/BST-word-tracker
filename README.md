@@ -6,13 +6,16 @@ Part of CPRG-311 Advanced Object Oriented Programming
 - Reads text files and collects and stores unique words found in various files
 - Custom Abstract Data Type interface
 - Binary Search tree using a reference based format
-- Report generation based on word occurrence, existence in files, frequency of occurence
+- Report generation based on word occurrence, existence in files, frequency of occurrence
+- JUnit Tested
 - Used in a CLI
 
 
 ### Technologies Used:
 1. Abstract Data Structures
 2. Binary Search Trees
+3. JUnit 4
+4. Serialization
 
 
 ### Tools Used: 
